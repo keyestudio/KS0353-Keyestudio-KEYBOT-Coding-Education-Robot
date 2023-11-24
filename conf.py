@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ESAY PLUG Board'
+project = 'KEYBOT Education Robot'
 copyright = 'keyestudio'
 author = 'keyestudio'
 
